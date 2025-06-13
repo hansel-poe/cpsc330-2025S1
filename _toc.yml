@@ -84,6 +84,13 @@ parts:
       title: Lecture 16
     - url: "https://firasm.github.io/cpsc330-slides/slides-17.html"
       title: Lecture 17
+  - file: lectures/classes/class5B
+  - file: lectures/classes/class5C
+    sections:
+    - url: "https://firasm.github.io/cpsc330-slides/slides-18.html"
+      title: Lecture 18
+    - url: "https://firasm.github.io/cpsc330-slides/slides-19.html"
+      title: Lecture 19
 - caption: Course Notes
   chapters: 
   - file: lectures/notes/01_intro
@@ -109,8 +116,8 @@ parts:
   # - file: lectures/notes/21_communication    
   # - file: lectures/notes/22_deployment-conclusion
   # - file: lectures/notes/final-exam-review-guiding-question  
-  # - file: lectures/notes/appendixA_feature-engineering-text-data
-  # - file: lectures/notes/appendixB_multiclass-strategies
+  - file: lectures/notes/appendixA_feature-engineering-text-data
+  - file: lectures/notes/appendixB_multiclass-strategies
 - caption: Attribution
   chapters: 
   - file: attribution
