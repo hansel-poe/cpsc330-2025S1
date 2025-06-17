@@ -113,7 +113,7 @@ parts:
   - file: lectures/notes/18_intro_to_computer-vision
   - file: lectures/notes/19_time-series
   - file: lectures/notes/20_survival-analysis  
-  # - file: lectures/notes/21_communication    
+  - file: lectures/notes/21_communication
   # - file: lectures/notes/22_deployment-conclusion
   # - file: lectures/notes/final-exam-review-guiding-question  
   - file: lectures/notes/appendixA_feature-engineering-text-data
