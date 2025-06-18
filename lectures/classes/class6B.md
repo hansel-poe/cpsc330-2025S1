@@ -1,8 +1,10 @@
-# Class Meeting 6A
+# Class Meeting 6B
 
 Below are the required videos for today's class (none), as well as slides from class embedded.
 Feel free to download them to keep them locally, or leave them archived here and just bookmark them.
 We will leave the website open even after the course is over for a reasonable number of years.
+
+This is our last meeting of the term!
 
 <!--
 ## Pre-lecture 18 Videos
@@ -43,7 +45,7 @@ Below are the assigned videos for Lecture 18.
 ### Lecture 21
 
 <div>
-<iframe src="../../files/Lec21.pdf" width="100%" height="600px" frameBorder="0"> </iframe>
+<iframe src="https://firasm.github.io/cpsc330-slides/slides-21.html" width="100%" height="600px" frameBorder="0"> </iframe>
 </div>
 
 [Download the Slides from today](../../files/Lec21.pdf)
