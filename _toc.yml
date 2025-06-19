@@ -101,8 +101,8 @@ parts:
     sections:
     - url: "https://firasm.github.io/cpsc330-slides/slides-24.html"
       title: Lecture 22
-    - url: "../../files/Lec22.pdf"
-      title: Lecture 22-Ethics Slides
+    # - url: "../../files/Lec22.pdf"
+    #   title: Lecture 22-Ethics Slides
 - caption: Course Notes
   chapters: 
   - file: lectures/notes/01_intro
