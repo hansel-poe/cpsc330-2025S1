@@ -100,7 +100,7 @@ parts:
   - file: lectures/classes/class6B
     sections:
     - url: "https://firasm.github.io/cpsc330-slides/slides-24.html"
-      title: Lecture 22
+      title: Lecture 24
     # - url: "../../files/Lec22.pdf"
     #   title: Lecture 22-Ethics Slides
 - caption: Course Notes
