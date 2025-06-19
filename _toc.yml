@@ -98,11 +98,11 @@ parts:
     - url: "https://github.com/UBC-CS/cpsc330-2025S1/blob/main/files/Lec21.pdf"
       title: Lecture 21
   - file: lectures/classes/class6B
-    # sections:
-    # - url: "https://firasm.github.io/cpsc330-slides/slides-20.html"
-    #   title: Lecture 22
-    # - url: "../../files/Lec21.pdf"
-    #   title: Lecture 23
+    sections:
+    - url: "https://firasm.github.io/cpsc330-slides/slides-24.html"
+      title: Lecture 22
+    - url: "../../files/Lec22.pdf"
+      title: Lecture 22-Ethics Slides
 - caption: Course Notes
   chapters: 
   - file: lectures/notes/01_intro
